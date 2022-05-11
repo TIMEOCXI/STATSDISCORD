@@ -2,7 +2,7 @@
 credit KAMUISAD#9999
 
 python stats.py
-ใส่ TOKEN ตัวเอง
-ใส่ ชื่อ สถานะ
+ODQzOTkyNjA4NTAxMjY4NDgy.G_OdNb.ppj1PY5_rhi_2lWP5Fjakqv7OMQbvxn-PUbYq4
+TIMEZO ZOSAD
 
 
